@@ -1,0 +1,33 @@
+
+#SSH
+ssh -p port_number user@IP 
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
+#cat
+muestra los contenidos de un archivo
+
+si un archivo tiene caracteres especiales como - o . usar cat./NameOfTheFile
+
+# file
+Te dice el tipo de informacion que tiene un archivo: ASCII, data
+
+#du
+cuanto pesa un archivo
+
+#find
+buscar por archivos
+
+
+# files that are named -
+vim -- - or cat ./-
+
+
+// passwd1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+// passwd2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+// passwd3: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+// passwd4: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+// passwd5: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
