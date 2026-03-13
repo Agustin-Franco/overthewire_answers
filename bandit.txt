@@ -21,6 +21,9 @@ buscar por archivos
 # files that are named -
 vim -- - or cat ./-
 
+# useage of *
+/* applies a command to all files in a directory
+
 
 // passwd1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
